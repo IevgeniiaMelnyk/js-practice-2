@@ -100,3 +100,9 @@ const onSubmitObjectForm = (event) => {
 refs.login.addEventListener("change", validateEmail);
 refs.password.addEventListener("change", validatePassword);
 form.addEventListener('submit', onSubmitObjectForm);
+
+
+
+
+
+
